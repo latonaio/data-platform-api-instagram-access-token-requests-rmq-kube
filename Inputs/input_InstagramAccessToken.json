@@ -1,0 +1,18 @@
+{
+  "connection_key": "request",
+  "result": true,
+  "redis_key": "abcdefg",
+  "filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+  "api_status_code": 200,
+  "runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+  "business_partner": null,
+  "service_label": "INSTAGRAM_ACCESS_TOKEN",
+  "api_type": "requests",
+  "InstagramAccessToken": {
+    "URL": "https://oauth2.googleapis.com/token?client_id=XXXXXXXXXXXXXXXXXXXXXXXXXXXX&client_secret=XXXXXX-XXXXXX-XXXXXXXXXXXXXXXXXX&code=4%2F0AXXXXXXXXXXXXXXXXXX-XXXXXXXXXXXX_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&redirect_uri=https%3A%2F%2Flocalhost%2Foauth-callback&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&grant_type=authorization_code"
+  },
+  "api_schema": "DPFMInstagramAccessTokenRequests",
+  "accepter": [
+    "InstagramAccessToken"
+  ]
+}
